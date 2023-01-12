@@ -4,7 +4,7 @@
 export TWRP_MANIFEST="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp"
 export TWRP_BRANCH="twrp-12.1"
 #export TWRP_BRANCH="twrp-test"
-export DT_LINK="https://github.com/Spector0/Device_Oneplus_Oscar_TWRP -b stable"
+export DT_LINK="https://github.com/Spector0/Device_Oneplus_Oscar_TWRP.git -b stable"
 
 export DEVICE="oscar"
 export OEM="oneplus"
